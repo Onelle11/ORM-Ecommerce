@@ -46,6 +46,9 @@ npm start
 Use Insomnia
 ```
 
+## Walkthrough
+https://drive.google.com/file/d/1W1zNmVCVh8J-_H_oftUKe7zF3C3dvDwC/view
+
 ## Github Repo
 
 https://github.com/Onelle11/ORM-Ecommerce
